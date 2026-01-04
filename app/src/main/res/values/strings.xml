@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NetSpeedMon</string>
+
+    <string name="disabled_battery_optimization">Disable battery optimization</string>
+    <string name="post_notification_permission_required">Post notifications permission is required.</string>
+    <string name="start_service">Start NetSpeedMon</string>
+    <string name="stop_service">Stop NetSpeedMon</string>
+</resources>
